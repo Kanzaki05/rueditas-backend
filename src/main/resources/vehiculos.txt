@@ -1,0 +1,13 @@
+#;Placa;Marca;Modelo;NroAsientos;Precio;Color
+1;ASR-121;KIA;Sportage;5;26000;Negro
+2;FAD-124;Toyota;Rav;5;26000;Negro
+3;BCD-567;Hyundai;Tucson;5;27000;Blanco
+4;XYZ-890;Mazda;CX-5;5;28000;Rojo
+5;HJK-345;Ford;Escape;5;25000;Gris
+6;LMN-456;Nissan;Murano;5;29000;Azul
+7;PQR-789;Honda;CR-V;5;30000;Blanco
+8;JKL-234;Chevrolet;Equinox;5;25500;Plateado
+9;VWX-678;Jeep;Cherokee;5;31000;Verde
+10;QWE-987;Subaru;Forester;5;26500;Negro
+11;ZXC-321;KIA;Sorento;7;32000;Blanco
+12;GHI-654;Toyota;Highlander;7;35000;Azul
